@@ -11,10 +11,9 @@ Here are some quick things about me:
     </p>
 </a>
 <!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
-<a align="center" href="">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dongm2ez&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongm2ez&layout=compact&theme=tokyonight" alt="languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=dongm2ez&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongm2ez&layout=compact&theme=tokyonight&exclude_repo=m2ez.github.io" alt="languages" height="165">
 </p>
 
 
