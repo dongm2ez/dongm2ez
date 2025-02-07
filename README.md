@@ -2,7 +2,7 @@ Hi there 👋
 
 Here are some quick things about me:
 
-🇨🇳 Beijing,China・🕹Web developer
+🇨🇳 Beijing,China・🕹Technical Product Manager
 
 ### 🏆 Github Status
 <a href="">
