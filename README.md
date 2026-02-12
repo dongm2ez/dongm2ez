@@ -7,6 +7,7 @@ Here are some quick things about me:
 - 💼 I'm currently working on: **💻 Build AI products using Go and Python**
 - 🌱 I'm currently learning: **📚 AI-driven development of incredible projects**
 
+
 ### Skills
 <!-- programming langs i work-->
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;">
@@ -43,6 +44,16 @@ Here are some quick things about me:
     <img src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=white" height="20" alt="Hugo" style="margin-right: 8px"> 
     <img src="https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&logoColor=white" height="20" alt="Jekyll" style="margin-right: 8px"> 
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="20" alt="Supabase" style="margin-right: 8px">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="20" alt="Linux" style="margin-right: 8px">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" height="20" alt="Ubuntu" style="margin-right: 8px">
+    <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" height="20" alt="Nginx" style="margin-right: 8px">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="20" alt="Kubernetes" style="margin-right: 8px">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" height="20" alt="Prometheus" style="margin-right: 8px">
+    <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="20" alt="Grafana" style="margin-right: 8px">
+    <img src="https://img.shields.io/badge/ArgoCD-FF5733?logo=argo&logoColor=white" height="20" alt="ArgoCD" style="margin-right: 8px">
+    <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" height="20" alt="Ansible" style="margin-right: 8px">
+    <img src="https://img.shields.io/badge/Loki-0094D4?logo=loki&logoColor=white" height="20" alt="Loki" style="margin-right: 8px">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" height="20" alt="Shell" style="margin-right: 8px">
 </div>
 
 ### GitHub Stats
